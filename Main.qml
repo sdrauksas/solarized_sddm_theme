@@ -237,7 +237,7 @@ Rectangle {
         anchors.verticalCenter: parent.verticalCenter
 
         //text: textConstants.session
-        text: ""
+        text: "Window Manager"
         font.family: textFont.name
         font.pixelSize: 16
         font.bold: true
@@ -271,7 +271,7 @@ Rectangle {
         anchors.verticalCenter: parent.verticalCenter
 
         //text: textConstants.layout
-        text: ""
+        text: "Keyboard Layout"
         font.family: textFont.name
         font.pixelSize: 16
         font.bold: true
